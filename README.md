@@ -1,0 +1,2 @@
+# ChifraShort
+encrypt or decrypt
